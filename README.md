@@ -1,4 +1,4 @@
-# My-personalized-Agile-framework-for-learning-data-analytics-skills
+# 🏛 My personalized Agile framework for learning data analytics skills
 
 ## Planning My Learning Development
 
@@ -8,7 +8,7 @@ To break into an analytical role, I researched the skills I would need to develo
 
 To ensure I have an incremental learning planning I adopted some of the agile practices (Scrum in particular) to help me develop a learning plan.
 
-> Note: As a CSM, I have intentionally chosen not apply all components of Scrum, rather only some components that can allow me to help **plan my learning activities**, and help me **keep track of my progress** while I primarily focus on data skills development, rather than Scrum application.
+> Note: As a Certified Scrum Master, I have intentionally chosen not apply all components of Scrum, rather only some components that can allow me to help **plan my learning activities**, and help me **keep track of my progress** while I primarily focus on data skills development, rather than Scrum application.
 
 ### What is Scrum?
 
@@ -36,7 +36,11 @@ In the learning context, learning activities are broken down into further tasks 
 
 ### What is a Sprint?
 
-Sprint is a time-boxed 
+Sprint is the oxygen of Scrum that enables immediate value creation.
+
+Sprint is a time-boxed event (usually 2 weeks, but for my learning goal I kept each Sprint at a length of 1 week). A new Sprint starts as soon as one Sprint ends.
+
+All the learning activities for the Sprint Goal are to be carried out within the duration of the Sprint.
 
 ### Creating and Refining a Product (learning) Backlog:
 
@@ -72,7 +76,8 @@ Following is a breakdown of the SQL learning activities into forms of user stori
 
 The top 4 priority backlog items were added to the Sprint Backlog to develop and track the learning progress during Sprint of **1 week**:
 
-(**### ADD IMAGE**)
+![B820D24F-E5B6-45F6-A3BF-28B5D66FD6D4](https://user-images.githubusercontent.com/103615594/173422825-19023130-b1b3-4cb9-8b4c-eed214485c4d.jpeg)
+
 
 As it can be seen in the above example, I tracked my learning progress and actively updated the status based on progress.
 
@@ -90,7 +95,7 @@ On the last day of the Sprint (1 week duration), I decided to evaluate with hone
 
 After carrying out the Sprint Review and before beginning the next Sprint I reflected upon my learning activities and tried to identify if there were improvements that I could apply for the next Sprint. Some of the findings for improvement were:
 - **Reduce cutting-corners/technical debt**: Making sure I learn properly, rather than learn to mark user stories as '_Done_'
-- **Improving commitment to stick to goal**: On a couple of instances I found that I was getting ahead of myself and branching out my learning into different directions. E.g, While learning the WHERE statement I started looking at CTE and subqueries which was not part of my Sprint Goal. Curious Much?! 👀
+- **Improving commitment to stick to goal**: On a couple of instances I found that I was getting ahead of myself and branching out my learning into different directions. E.g, While learning the WHERE statement I started looking at CTE and subqueries which was not part of my Sprint Goal. Curious Much?! 😬🙈
 
 ## Reach out to me
 
